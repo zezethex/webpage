@@ -1,0 +1,38 @@
+.container {
+   max-width: 1024px;
+ }
+
+.date {
+    font-size: 15px
+}
+
+.img {
+    height:150px; 
+    width:500px;
+}
+
+.footer {
+    min-height: 100px;
+}
+
+.yellow {
+    color: black;
+    letter-spacing: 0.35em;
+}
+
+.nav {
+    word-spacing: 8px;   
+}
+
+.nav a {
+  font-weight: 500;
+}
+
+.grey:link {
+    color: #999;
+  
+}
+
+.grey:hover {
+    color: #ffd500;
+}
